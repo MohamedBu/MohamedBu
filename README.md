@@ -1,4 +1,4 @@
-### Hi there 👋, Mohamed Burhan
+### Hi there 👋
 #### Software Engineer Intern & Computer Science Student
 ![Software Engineer Intern & Computer Science Student](https://media-exp1.licdn.com/dms/image/C4E16AQEjZiddOb3Lpw/profile-displaybackgroundimage-shrink_200_800/0/1633737226155?e=1645660800&v=beta&t=waBlNc218e6IxjHOXd5zjzmWSbVWQWR9p55sEGLLNLY)
 
