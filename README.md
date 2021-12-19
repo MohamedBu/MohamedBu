@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Software Engineer Intern & Computer Science Student
-![Software Engineer Intern & Computer Science Student](https://res.cloudinary.com/practicaldev/image/fetch/s--v8AJl04E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/zm0ukck1i8yyakr9gsnw.png)
+![Software Engineer Intern & Computer Science Student](file:///C:/Users/MB/Desktop/CRC/Courses/Chem%20400/Test%20Cheat%20Needs/zm0ukck1i8yyakr9gsnw.jpg)
 
 My name is Mohamed Burhan and I am an adaptable college student currently studying computer science. I had the privilege of working for different companies in various roles, where I learned valuable professional technical and overall workspace skills. Whether working on academic, extracurricular, or professional projects, I apply proven problem-solving, critical thinking, and creative thinking skills, which I hope to leverage into any job I work at.
 
