@@ -12,8 +12,7 @@ My name is Mohamed Burhan and I am an adaptable college student currently studyi
 - 🤖 I'm intrested in Machine Learning and Artificial Intelligence
 - 📫 How to reach me: maburhan711@gmail.com 
 
-
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-burhan-/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-burhan-/)
 
 
 
