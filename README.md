@@ -7,7 +7,7 @@ My name is Mohamed Burhan and I am an adaptable college student currently studyi
 💻 Skills: C / C++ / Python / HTML / CSS / JavaScript / SQL
 
 
-- 🔭 I’m currently working on App Development  
+- 🔭 I’m currently working on Web Development  
 - 🌱 I’m currently learning React
 - 🤖 I'm intrested in Machine Learning and Artificial Intelligence
 - 📫 How to reach me: maburhan711@gmail.com 
